@@ -1,8 +1,6 @@
+<header>
 # This is my H1
 ## That is my H2, copy?
-
-<header>
-
 <!--
   <<< Author notes: Course header >>>
   Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
